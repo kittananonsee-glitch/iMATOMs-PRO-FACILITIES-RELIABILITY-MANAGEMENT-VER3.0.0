@@ -1,0 +1,7 @@
+{
+  "name": "iMATOMs Pro - Facility & Reliability Management Ver3.0.0",
+  "description": "A comprehensive facility management suite integrating AI analytics, asset tracking, and work order management for hospital environments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
